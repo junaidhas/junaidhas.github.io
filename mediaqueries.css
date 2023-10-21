@@ -1,4 +1,4 @@
-@media screen and (max-width: 1340px) {
+@media screen and (max-width: 1440px) {
   #profile {
     height: 83vh;
     margin-bottom: 6rem;
@@ -8,6 +8,11 @@
     margin-bottom: 6rem;    
   }
 
+  #about{
+    height: auto;
+    margin-bottom: 6rem;
+  }
+
   #experience{
     height: auto;
     margin-bottom: 6rem;
@@ -15,6 +20,8 @@
   #contact,
   #projects {
     height: auto;
+    padding-top: 6rem;
+    margin-top: auto;
     margin-bottom: 6rem;
   }
 }
